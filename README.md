@@ -47,7 +47,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 5. **Run the application:**
 
    ```bash
-   npm run dev
+   npm start
    ```
 
    The app should now be running at `http://localhost:3000`.
