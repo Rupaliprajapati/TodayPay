@@ -20,8 +20,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-calculator.git
-   cd react-calculator
+   git clone git clone https://github.com/your-username/react-calculator.git
+   cd macos-calculator
    ```
 
 2. **Create a new React app using Vite:**
@@ -35,7 +35,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 3. **Navigate to the project directory:**
 
    ```bash
-   cd your-project-name
+   cd macos-calculator
    ```
 
 4. **Install the required modules:**
